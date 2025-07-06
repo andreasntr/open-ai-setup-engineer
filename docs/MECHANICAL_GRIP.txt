@@ -1,0 +1,91 @@
+Front Anti-roll bar
+
+{{This section discusses the front anti-roll bar's impact on mechanical grip and cornering behavior, explaining how adjusting its stiffness can correct understeer or oversteer at corner entry.}}
+The anti-roll bar is a large torsion spring that connects the suspension from one side of the car to the other. 
+Your car has both front and rear anti-roll bars; these prevent the chassis from rolling (lateral sway), but do not affect pitch.
+Basics: If the front tires have more grip than the rear tires, the car will oversteer and vice versa, the car will understeer.
+Front anti-roll bar:
+ - It has a great impact on cornering behavior;
+ - Soften it to correct understeer in corner entry;
+ - Stiffen it to correct oversteer at corner entry.
+
+
+Rear Anti-roll bar
+
+{{This section discusses the rear anti-roll bar's impact on mechanical grip, particularly its effect on throttle behavior and correcting oversteer or understeer on corner exit.}}
+The anti-roll bar is a large torsion spring that connects the suspension from one side of the car to the other. 
+Your car has both front and rear anti-roll bars; these prevent the chassis from rolling (lateral sway), but do not affect pitch.
+Basics: If the front tires have more grip than the rear tires, the car will oversteer and vice versa, the car will understeer.
+Rear anti-roll bar:
+ - Has a great impact on throttle behavior;
+ - Soften to correct oversteer in corner exit;
+ - Stiffen to correct understeer when exiting corners.
+
+
+Steering ratio setting
+
+{{This section discusses how the steering ratio affects the responsiveness of the car's handling, explaining the meaning of a steering ratio and its impact on steering feel.}}
+Steering ratio of 13:1 means you need to turn 13 degrees for the car's wheels to rotate 1 degree. The higher the first number, the less responsive the steering.
+
+
+Brake bias
+
+{{This section discusses brake bias, explaining its effect on car handling, stability under braking, and how to adjust it for different conditions such as wet weather and changing fuel levels. It also notes that the default setting in ACC is often a good starting point.}}
+The brake distribution represents the amount of braking force that will be sent to the front wheels relative to the rear ones. Over 50% means that more brake pressure will be sent to the front wheels and vice versa, less brake pressure to the rear wheels.
+A shift in the brake force forward means that the car is more stable under braking. But it can cause understeer on corner entry. Shifting the brake backwards means less stable braking and can cause oversteer when entering a corner.
+In wet conditions, the chance of locking a wheel increases as the grip is reduced. If you move your brake bias slightly rearward (closer to 50%) you will decrease your chance of locking a front wheel. Be careful not to move your brake bias too far rearward, as you can inadvertently start to lock the rear brakes.
+There is an optimal distribution of the braking which therefore involves not exceeding in one direction or the other. On ACC, the default setting of the braking distribution is excellent, so it only needs to intervene with small changes.
+Adjusting the brake bias during a race (while driving the car) helps, but it is an advanced technique that you can consult by clicking on the icon below.
+Generally, for inexperienced drivers it is advisable to change the brake bias during the race only due to changing conditions such as, for example, fuel levels, tire degradation and track temperature.
+
+
+Differential
+
+{{This section explains how the differential preload setting affects car handling, particularly during acceleration and corner entry/exit, impacting stability and oversteer/understeer balance.}}
+Differential is a system that allows the wheels to turn at different speeds and to rotate independently of each other. 
+This is very useful when cornering, because the outer tires have to travel greater distances than the inner tires. Therefore, the outer tire will rotate faster to maintain grip with the track. This limits the independence of the wheels.
+The parameters that regulate the degree of differential lock in acceleration (power) and release (coast) in the GT3 are fixed for homologation while the preload modification is available (preload). 
+In practical terms, the preload can be seen as a value that determines the intervention times of the differential; when this intervenes, there is a different distribution of the driving torque between the two axle shafts and therefore their different rotation speed.
+The lower the preload value, the earlier the differential will open (and therefore will intervene). The extreme conditions are: open differential and locked differential.
+For example, if you have set a preload value equal to 170 Nm this means that as long as the torque difference between the left and right wheel does not exceed this value, the differential is totally blocked; vice versa, with a torque greater than this value, the differential will start to intervene and open.
+What happens if I turn down the preload (for example to 100 Nm)? It will happen that the differential will open early. A first consequence of this is a reduction in motor skills but the effects are also others.
+The differential preload only affects the car during a state of acceleration, i.e. when the accelerator is pressed or released.
+Higher preload value:
+ - more stable (understeer) in turn in/braking;
+ - more oversteer at 1st, 2nd gear (corner exit);
+ - more understeer at higher gears (corner exit).
+Lower preload value:
+ - more turn in (more oversteer) in coast;
+ - more understeer in 1st, 2nd gear and less acceleration (corner exit);
+ - less understeer in higher gear (corner exit).
+
+
+Wheel rate
+
+{{This section discusses the mechanical grip of the car, specifically the wheel rate and its relation to spring stiffness and car weight distribution.}}
+Wheel rate is a measure of the effective stiffness of the suspension system measured at the wheel centre rather than at the spring. 
+Heavier cars generally require stiffer springs. 
+Remember that front-engined cars are heavier in the front, so a stiffer front suspension is required.
+
+
+Bumpstops
+
+{{Tuning mechanical grip by adjusting bumpstops, bumpstop rate, and bumpstop range to control suspension compression and extension, impacting stability and aerodynamic balance. Relates suspension setup to ride height and spring stiffness, with advice for different track types. Explains how to interpret the suspension widget's colored lines for tuning.}}
+The bumpstop is an elastic, locking element located above the suspension.
+Bumpstop Rate represents the stiffness of the bumpstop. 
+Bumpstop range identifies the amount of travel of the suspension before hitting the bumpstop.
+Importantly, suspension is closely related to ride height. Changing ride height may require changes in suspension setup.
+Springs are extremely important to the overall configuration of your car. The softer the suspension, the greater the grip, but having a car that is too soft can sometimes be a huge disadvantage.
+As a general rule, follow these tips:
+ - Stiffer springs for smoother tracks;
+ - Softer springs for bumpy slopes.
+When you proceed with the adjustment of the aforementioned parameters, namely wheel rate, bumpstop rate and bumpstop range, in the relative widget you will notice three lines of different colors: yellow, red and green.
+Yellow line: Represents the movement of the suspension. Obviously the car is stopped in the garage, so no movement, but this is where your suspension “sits”. As you drive, imagine the suspension line moving up and down. Up when the suspension goes into compression and down when the suspension extends.
+Red line: Above the spring there is an element called the bumpstop that stops the compression. By changing the “bumpstop range” value (which we should better call it bumpstop gap), you change the space between the “free” travel of the suspension (springs only) and when it touches or presses the bumpstop. From a graphic point of view, the closer the red line is to the yellow one, the lower the spring excursion during compression.
+Green line: Represents the limit switch of the suspension in extension.
+Reminder: As is well known, GT cars have important aerodynamic features such as wings, diffusers, splitters; when braking the car tilts forward, causing the front splitter to come closer to the ground and the rear diffuser to move higher off the ground. As a result of this, the aerodynamic balance shifts heavily towards the front of the car. If this movement is not constrained, the car can become very unstable.
+How to set up the car? The greater the stability required when cornering, the greater the need for the front suspension to touch the bumpstop when pitching forward. 
+Therefore, to make the car more stable, it is necessary to reduce the value of the bumpstop range parameter so that the red line approaches the yellow or even touches it. Obviously if you need more turn ins then go the other way. 
+You can also change the stiffness of the bumpstop by increasing or decreasing the bumpstop rate.
+Note: Typically less bumpstop work is desired at the rear, so the rear end absorbs curbs and bumps and generates traction. 
+Compatibly with the driving style and if the circuit permits it, it is possible to run a configuration similar to the front one, generally characterized by a reduced suspension stroke, also at the rear. By doing so, in addition to obtaining limitation of the squat, we will prevent the aerodynamic balance from moving too much towards the rear, making the car understeer.

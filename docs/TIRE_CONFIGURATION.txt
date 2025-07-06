@@ -1,0 +1,68 @@
+Tire pressure and temperature
+
+{{This section focuses on tire pressure and temperature setup, including ideal ranges for dry conditions, interpreting tire temperatures via the in-game HUD, and understanding the effects of different temperature states (blue-cold to red-overheated) on tire performance and handling.}}
+With the introduction of the 1.9 version of ACC, for optimum performance in dry conditions you should aim for tire pressures between 26.0 and 27.0 psi.
+The optimal range of the internal (core) temperature of the tire varies from 70°C to 100°C.
+When returning to the pits, it is possible to monitor the temperature on the inside (I = inside), in the center (M = middle) and on the outside (O = outside) of the tires. Keep in mind that the temperature difference between the inner side and the outer side of the tires must not exceed 9° C at the front and not exceed 5° C at the rear.
+On the track, however, it is possible to monitor the temperature of the tires through the tire widget in the game HUD. In particular, a different color of the tires is associated with the temperature condition:
+ - blue color, cold tires characterized by low grip and nervous behavior;
+ - green color, optimal temperature range with good slip angle and optimal grip;
+ - yellow color, initial phase of overheating with consequent significant increase in tire pressures;
+ - red color, overheated tires with a noticeable increase in pressures, significant reduction in grip accompanied by the sensation of slow and damped sliding.
+
+{{This section focuses on wet tire setup in Assetto Corsa Competizione (ACC), covering optimal pressures and temperatures, brake duct settings, driving strategies for different rain intensities, and the transition from wet to dry conditions.}}
+In wet track conditions, the optimal pressure for wet tires is between 29.5 and 31 psi; however, wet tires can start working fairly well starting from a pressure of 28.5 psi. 
+In the wet, in addition to the pressure, it is also important to keep the tire temperature under control, setting the correct opening level of the brake ducts and passing over stagnant water as the track tends to dry out to stem graining. If the car passes only with one side on a puddle, the rolling resistance on the wet section and the aquaplaning could destabilize the car. 
+Small deviations from the optimal pressure range of wet tires will not substantially affect your race pace in the way degradation and overheating could. In fact, in dry conditions the wet tires heat up considerably.
+When it starts to rain, the rubber line will start to get wet and be particularly slippery; you may be forced to avoid it by exploring alternate lines;
+If rain keeps on pouring heavy enough, it will clean the rubbered line and you might be able to turn back to a more traditional racing line. When will this happen? It is not known; try, experiment and you will find out;
+If it continues to rain, puddles and large streams of water may begin to form on the track. Again, you may be forced to try alternative lines (puddles and streams of water are positioned at specific points on the circuits, based on feedback from real drivers and on-board videos);
+If the rain becomes lighter or stops falling and many cars are turning on the track, a dry line or simply a “less wet” line may form. Obviously you will have more grip when passing on the dry line but, by doing so, the wet tires will overheat;
+When it stops raining, even if the track is slightly damp the slick tires are the ones that allow you to go faster. However, the puddles will be the last parts to dry out, so be careful and try to avoid them.
+
+{{Advanced information on adjusting tire pressure based on ambient and track temperature variations, and how these impact car handling and require further setup adjustments.}}
+Remember: there are two temperatures to keep an eye on that will allow you to further refine the optimal tire pressure setting. 
+These are the ambient temperatures and the asphalt; their variation will also affect the pressure inside the tire. 
+The general rule is that for every one degree change in temperature, track or ambient, you will have a tire pressure variation of approximately 0.1 psi. 
+For example, if you set your pressures to cold in the morning with an ambient temperature of 15 degrees, but then in the evening the air temperature drops to 12 degrees, you will have to intervene on the tire pressure to compensate for the effects of the changed environmental conditions. 
+In this example we have assumed that the temperature has dropped by 3 degrees, therefore we should increase our cold pressures by 3 x 0.1 = 0.3 psi on each tire. 
+On the other hand, when the ambient temperature rises considerably, in addition to lowering the cold pressures, it is also necessary to intervene on other setup parameters. 
+First, to reduce the temperature of the tires you have to open the brake ducts and then soften the shock absorbers, change the driving style to be less aggressive and finally raise the ABS values. 
+These changes will be able to lower the tire temperature by 3 or 4 degrees at most. 
+Furthermore, in mid-engined or rear-engined cars, an increase in temperature will cause the rear wheels to overheat with a consequent loss of traction and oversteer behavior, which you will need to correct with specific setup changes. 
+In cars with a front engine, the increase in temperature will cause the front wheels to overheat with consequent understeer behavior to be corrected, also in this case, by intervening on the tuning.
+
+
+Toe setup
+
+{{Fine-tuning car setup, specifically wheel alignment affecting corner entry and exit behavior. Discusses toe-in and toe-out effects on oversteer and understeer for front and rear wheels.}}
+Toe is the angle that the wheels take when looking at the car from above.
+"Toe in" means the toe angle is positive. "Toe out" means the toe angle is negative.
+Toe-in on the front wheels:
+ - It gives greater stability in corner entry;
+ - Cause more understeer when cornering.
+Toe-in on the rear wheels:
+ - Helps stability.
+Toe-out on the front wheels:
+ - Provides more reactivity;
+ - Cause more oversteer.
+Toe-out on the rear wheels:
+ - Do not even think about it!
+
+
+Camber
+
+{{This section explains camber, its effect on tire contact and grip, and how to adjust it based on tire temperature differences.}}
+The camber angle is the angle of your tyre when looking from the front. 
+Negative camber means that the top of the tire points towards the center of the car. 
+Positive camber indicates that the top of the tire points out of the car.
+Camber allows the tires to touch the track with a wider surface, offering greater grip, counteracting the tendency of the car to lose grip when cornering. 
+Adjust the camber angle so that the temperature difference between the inner and outer side of the tires does not exceed the values ​​indicated below:
+ - front tires: difference between inside and outside less than or equal to 9 ° C;
+ - front tires: difference between inside and outside less than or equal to 5 ° C.
+
+
+Caster
+
+{{Fine-tuning car setup, specifically discussing Caster and its impact on stability, steering feel, braking, and cornering behavior (understeer).}}
+The angle of attack will have an impact on the stability of your car and the heavy feel of the steering. The caster is affected by the camber when the wheels are turned (more caster angle means more camber with turned wheels). The caster is very important during braking as it determines the behavior of the wheels when braking. In the middle of a curve, too high a caster leads to understeer. Basically, it is better to run with a high caster angle as this facilitates cornering; however, when the car begins to show understeer when cornering at high speed, it needs to slightly reduce the caster angle.

@@ -1,0 +1,337 @@
+AMR V12 Vantage GT3 (2013)
+
+1-4 maps for dry conditions
+Map 1: the most performing and with the highest fuel consumption;
+Map 2: delivers a few less HP and average fuel consumption, aggressive throttle response;
+Map 3: delivers a few less HP and average fuel consumption, progressive throttle response;
+Map 4: Offers less power and ideal for fuel economy, progressive throttle response.
+5-7 maps for wet conditions
+Map 5: similar to 2 and 3 but with even more progressive and gentle throttle response;
+Map 6: less performance and less fuel consumption with throttle response for extreme wet conditions;
+Map 7: the most suitable for the most difficult conditions, even more progressive throttle response.
+Map 8: dedicated to safety car situations.
+
+
+AMR V8 Vantage GT3 (2019)
+
+1-4 maps for dry conditions
+Map 1: the most performing and with the highest fuel consumption;
+Map 2: delivers a few less HP and average fuel consumption, aggressive throttle response;
+Map 3: delivers a few less HP and average fuel consumption, progressive throttle response;
+Map 4: Offers less power and ideal for fuel economy, progressive throttle response.
+5-7 maps for wet conditions
+Map 5: similar to 2 and 3 but with even more progressive and gentle throttle response;
+Map 6: less performance and less fuel consumption with throttle response for extreme wet conditions;
+Map 7: the most suitable for the most difficult conditions, even more progressive throttle response.
+Map 8: dedicated to safety car situations.
+
+
+Audi R8 LMS (2015)
+
+1-4 maps for dry conditions
+Map 1: the most aggressive and with the highest fuel consumption;
+Maps 2 and 3: deliver a few less HP and average fuel consumption, two different accelerator maps;
+Map 4: Offers less power and ideal for fuel economy, throttle response like map 3.
+5-7 maps for wet conditions
+Map 5: for light wet conditions, gentler throttle map;
+Maps 6 and 7: deliver a few less HP, lower fuel consumption and two different throttle maps.
+Map 8: dedicated to safety car situations.
+
+
+Audi R8 LMS GT3 EVO (2019)
+
+1-4 maps for dry conditions
+Map 1: the most aggressive and with the highest fuel consumption;
+Maps 2 and 3: deliver a few less HP and average fuel consumption, two different accelerator maps;
+Map 4: Offers less power and ideal for fuel economy, throttle response like map 3.
+5-7 maps for wet conditions
+Map 5: for light wet conditions, gentler throttle map;
+Maps 6 and 7: deliver a few less HP, lower fuel consumption and two different throttle maps.
+Map 8: dedicated to safety car situations.
+
+
+Audi R8 LMS GT3 EVO 2 (2021)
+
+1-4 maps for dry conditions
+Map 1: the most aggressive and with the highest fuel consumption;
+Maps 2 and 3: deliver a few less HP and average fuel consumption, two different accelerator maps;
+Map 4: Offers less power and ideal for fuel economy, throttle response like map 3.
+5-7 maps for wet conditions
+Map 5: for light wet conditions, gentler throttle map;
+Maps 6 and 7: deliver a few less HP, lower fuel consumption and two different throttle maps.
+Map 8: dedicated to safety car situations.
+
+
+Bentley Continental GT3 (2015)
+
+1-4 maps for dry conditions
+Map 1: the most aggressive and with the highest fuel consumption;
+Maps 2 and 3: deliver a few less HP, average fuel consumption and 2 different options dedicated to the throttle response;
+Map 4: Offers less power and ideal for fuel economy, throttle response identical to map 3
+5-7 maps for wet conditions
+Map 5: fairly aggressive, normal fuel consumption and smoother throttle response;
+Map 6 and 7: less power, less fuel consumption and 2 different accelerator maps dedicated to wet conditions.
+Map 8: a map dedicated to situations in which the safety car is present on the track.
+
+
+Bentley Continental GT3 (2018)
+
+1-4 maps for dry conditions
+Map 1: the most aggressive and with the highest fuel consumption;
+Maps 2 and 3: deliver a few less HP, average fuel consumption and 2 different options dedicated to the throttle response;
+Map 4: Offers less power and ideal for fuel economy, throttle response identical to map 3
+5-7 maps for wet conditions
+Map 5: fairly aggressive, normal fuel consumption and smoother throttle response;
+Map 6 and 7: less power, less fuel consumption and 2 different accelerator maps dedicated to wet conditions.
+Map 8: a map dedicated to situations in which the safety car is present on the track.
+
+
+BMW M6 GT3 (2017)
+
+1-3 maps for dry conditions
+Map 1: the most aggressive and with the highest fuel consumption, very aggressive throttle response;
+Maps 2 and 3: less power, average fuel consumption, more linear (2) or more gradual (3) throttle response.
+Map 4: reserved for engineers, not to be used, low power.
+Map 5: dedicated to safety car regimes.
+6-8 maps for wet conditions:
+Map 6: fairly aggressive, normal fuel consumption and smoother throttle response;
+Maps 7 and 8: less power, less fuel consumption and 2 different accelerator maps dedicated to wet conditions.
+
+
+BMW M4 GT3 (2022)
+
+1-3 maps for dry conditions
+Map 1: the most aggressive and with the highest fuel consumption, very aggressive throttle response;
+Maps 2 and 3: less power, average fuel consumption, more linear (2) or more progressive (3) throttle response.
+Map 4: reserved for engineers, not to be used, low power.
+Map 5: dedicated to safety car regimes.
+6-8 maps for wet conditions:
+Map 6: fairly aggressive, high fuel consumption and gradual wet throttle map;
+Maps 7 and 8: less power, less fuel consumption and 2 different accelerator maps dedicated to wet conditions.
+
+
+Ferrari 296 GT3 (2023)
+
+1-10 throttle maps for various weather conditions.
+Engine power and consumption always the same.Throttle maps are changing in various levels of linearity.Still WIP and to finalise in a soon to arrive hotfix and will update accordingly.
+
+
+Ferrari 488 GT3 (2018)
+
+1-4 maps for dry conditions:
+Map 1: the most aggressive and with the highest fuel consumption;
+Map 2: delivers a few less HP, lower fuel consumption;
+Map 3: delivers a few less HP, fuel consumption as map 1;
+Map 4: less power and more fuel economy.
+5-8 maps for wet conditions
+Map 5: the most performing for the wet and with an average fuel consumption, more gradual and less linear throttle response;
+Map 6: fewer HP, lower fuel consumption and more gradual and less linear throttle response;
+Map 7: fewer HP, normal fuel consumption and more gradual and less linear throttle response;
+Map 8: the least performing and with the greatest fuel economy, more gradual and less linear throttle response.
+Maps 9-12: maps dedicated to situations in which the safety car is present or in reserve.
+
+
+Ferrari 488 GT3 Evo (2020)
+
+1-5 maps for dry conditions:
+Map 1: faster map, extremely aggressive throttle and power delivery, with high fuel consumption;
+Map 2: map a little slower, accelerator still very aggressive and high consumption;
+Map 3: aggressive throttle and normal fuel consumption;
+Map 4: moderately aggressive throttle and slightly lower fuel consumption;
+Map 5: normal, almost linear accelerator, slightly lower fuel consumption
+6-8 maps for wet conditions
+Map 6: the most performing for the wet and with an average fuel consumption, more gradual and less linear throttle response;
+Map 7: fewer horsepower, normal fuel consumption and more gradual and less linear throttle response;
+Map 8: the least performing and with the greatest fuel economy, more gradual and less linear throttle response.
+Maps 9-12: maps dedicated to situations in which the safety car is present or in reserve.
+
+
+Honda NSX GT3 (2017)
+
+1-4 maps for dry conditions
+Map 1: full power, progressive throttle map;
+Map 2: full power, smoother throttle map;
+Map 3: full power, aggressive throttle map;
+Map 4: full power, very aggressive throttle map.
+5-7 maps for wet conditions
+Map 5: full power, progressive throttle map;
+Map 6: full power, even more progressive throttle map;
+Map 7: limited power and fuel economy, progressive throttle map.
+Map 8: dedicated to safety car situations .
+
+
+Honda NSX GT3 EVO (2019)
+
+1-4 maps for dry conditions
+Map 1: full power, progressive throttle map;
+Map 2: full power, smoother throttle map;
+Map 3: full power, aggressive throttle map;
+Map 4: full power, very aggressive throttle map.
+5-7 maps for wet conditions
+Map 5: full power, progressive throttle map;
+Map 6: full power, even more progressive throttle map;
+Map 7: limited power and fuel economy, progressive throttle map.
+Map 8: dedicated to safety car situations .
+
+
+Reiter Engineering R-EX GT3 (2017)
+
+Map 1: the most performing and with the highest fuel consumption;
+Map 2: less power, normal fuel consumption and aggressive throttle response;
+Map 3: identical to 2, progressive accelerator response;
+Map 4: the least performing and with the lowest fuel consumption, throttle response identical to map 3.
+
+
+Lamborghini Huracan GT3 (2015)
+
+1-4 maps for dry conditions
+Map 1: the most aggressive and with the highest fuel consumption;
+Maps 2 and 3: deliver a few less HP, average fuel consumption and 2 different options dedicated to the throttle response;
+Map 4: offers less power, ideal for fuel economy, throttle response identical to map 3.
+5-7 maps for wet conditions
+Map 5: fairly aggressive, normal fuel consumption and smoother throttle response;
+Map 6 and 7: less power, less fuel consumption and 2 different accelerator maps dedicated to wet conditions.
+Map 8: a map dedicated to situations in which the safety car is present on the track.
+
+
+Lamborghini Huracan GT3 EVO (2019)
+
+1-4 maps for dry conditions
+Map 1: the most aggressive and with the highest fuel consumption;
+Maps 2 and 3: deliver a few less HP, average fuel consumption and 2 different options dedicated to the throttle response;
+Map 4: offers less power, ideal for fuel economy, throttle response identical to map 3.
+5-7 maps for wet conditions
+Map 5: fairly aggressive, normal fuel consumption and smoother throttle response;
+Map 6 and 7: less power, less fuel consumption and 2 different accelerator maps dedicated to wet conditions.
+Map 8: a map dedicated to situations in which the safety car is present on the track.
+
+
+Lamborghini Huracan GT3 EVO 2 (2023)
+
+Not yet available.
+
+
+Emil Frey Jaguar G3 (2012)
+
+1-3 maps for dry conditions
+Map 1: the most aggressive and with the highest fuel consumption;
+Map 2: delivers a few less HP and average fuel consumption, linear throttle response;
+Map 3: delivers a few less HP, lower fuel consumption and linear throttle response.
+4-6 maps for wet conditions:
+Map 4: quite aggressive, high fuel consumption and more gradual throttle response;
+Map 5: less power, normal fuel consumption and more gradual wet throttle response;
+Map 6: the least performing with reduced fuel consumption and throttle response dedicated to wet conditions.
+
+
+Nissan GT-R Nismo GT3 (2015)
+
+4 maps
+Map 1: the most performing and with the highest fuel consumption; 
+Map 2: less power, normal fuel consumption;
+Map 3: less power and more fuel savings than map 2;
+Map 4: dedicated specifically to fuel saving.
+
+
+Nissan GT-R Nismo GT3 (2018)
+
+4 maps
+Map 1: the most performing and with the highest fuel consumption; 
+Map 2: less power, normal fuel consumption;
+Map 3: less power and more fuel savings than map 2;
+Map 4: dedicated specifically to fuel saving.
+
+
+Lexus RC F GT3 (2016)
+
+4 maps
+Map 1: the most performing and with linear accelerator response;
+Map 2: identical to 1, aggressive accelerator response; 
+Map 3: identical to 1, progressive accelerator response;
+Map 4: fuel economy, throttle response for wet conditions.
+Map 5: dedicated to safety car situations.
+
+
+McLaren 650S GT3 (2015)
+
+1-4 maps for dry conditions
+Map 1: the most performing;  
+Map 2: less performance, greater fuel economy;
+Map 3: less performance, standard fuel consumption;
+Map 4: the less performing, the higher fuel savings.
+5-8 maps for wet conditions
+Map 5: the most performing, accelerator map dedicated to wet conditions;
+Map 6: less performance, greater fuel economy and accelerator map dedicated to wet conditions;
+Map 7: less performance, standard fuel consumption and accelerator map dedicated to wet conditions;
+Map 8: the least performing, the highest fuel economy and accelerator map dedicated to wet conditions.
+Map 9: dedicated to safety car situations.
+
+
+McLaren 720s GT3 (2019)
+
+1-6 maps for dry conditions
+Map 1: mainly dedicated to qualification, aggressive throttle response and high fuel consumption;
+Map 2: less thrust, linear throttle response and average fuel consumption;
+Map 3: like map 2, but with more progressive throttle response and lower fuel consumption;
+Map 4: first map dedicated to fuel economy, progressive gas response;
+Map 5: second fuel saving map, even less power and greater fuel savings;
+Map 6: map dedicated to the maximum fuel economy of this lot.
+Map 7: called “high temp”, it is useful for cooling the engine in emergency conditions, reduced power and high fuel consumption.8-9 maps for wet asphalt conditions
+Map 8: maximum performance in these conditions, progressive gas response and high fuel consumption;
+Map 9: dedicated to fuel economy during the race, less performance, progressive throttle response.
+10-12 maps for wet conditions
+Map 10: maximum performance in these conditions, specific gas response for wet conditions and high fuel consumption;
+Map 11: like map 10 but with less performance and average fuel consumption;
+Map 12: dedicated to extreme conditions, average fuel consumption.
+
+
+McLaren 720s GT3 Evo (2023)
+
+Not yet available.
+
+
+Mercedes AMG GT3 (2015)
+
+Map 1: the most performing and with the highest fuel consumption, linear accelerator map;
+Map 2: less performing, average fuel consumption and linear accelerator map; 
+Map 3: the slowest and most fuel-efficient, linear throttle map.
+
+
+Mercedes AMG GT3 (2020)
+
+
+Map 1: the most performing and with the highest fuel consumption, linear accelerator map;
+Map 2: less performing, average fuel consumption and linear accelerator map; 
+Map 3: the slowest and most fuel-efficient, linear throttle map.
+
+
+Porsche 991 GT3-R (2018)
+
+Map 1: normal power and fuel consumption, less progressive throttle response;
+Map 2: normal power and fuel consumption, progressive throttle response;
+Map 3: normal power and fuel consumption, aggressive throttle response;
+Map 4: normal power and fuel consumption, linear throttle response;
+Map 5: dedicated to qualification, less progressive throttle response;
+Map 6: dedicated to qualification, progressive accelerator response;
+Map 7: dedicated to qualifying, aggressive throttle response;
+Map 8: dedicated to qualification, linear accelerator response;
+Map 9: the least performing and suitable for fuel saving, progressive accelerator response.
+Map 10: dedicated to safety car situations.
+
+
+Porsche 991 II GT3 R (2019)
+
+Map 1: normal power and fuel consumption, less progressive throttle response;
+Map 2: normal power and fuel consumption, progressive throttle response;
+Map 3: normal power and fuel consumption, aggressive throttle response;
+Map 4: normal power and fuel consumption, linear throttle response;
+Map 5: dedicated to qualification, less progressive throttle response;
+Map 6: dedicated to qualification, progressive accelerator response;
+Map 7: dedicated to qualifying, aggressive throttle response;
+Map 8: dedicated to qualification, linear accelerator response;
+Map 9: the least performing and suitable for fuel saving, progressive accelerator response.
+Map 10: dedicated to safety car situations.
+
+
+Porsche 992 GT3-R (2023)
+
+Not yet available.

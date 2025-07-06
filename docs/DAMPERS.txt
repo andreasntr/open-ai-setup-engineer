@@ -1,0 +1,30 @@
+Damper adjustment
+
+{{This section details how to adjust dampers (shock absorbers) to control suspension compression and rebound, including bump, fast bump, rebound, and fast rebound settings, and how these settings affect car behavior and curb absorption.}}
+Shock absorbers control how energy is stored and released from the suspension while driving, regulating the movement and behavior of the car.
+The compression (bump) controls the speed with which the suspension spring is compressed when climbing up a hill. A higher value of the bump parameter results in greater spring resistance, reducing the compression rate.
+The extension (rebound) controls the speed with which the spring returns to its original state. A higher value of the rebound parameter results in a slower rebound.
+For each shock absorber, the extension should be greater than the compression! In fact, encountering a hole, the spring must be able to compress itself almost immediately, so as not to transmit the impact to the frame. 
+Once the blow has been absorbed, if the spring is discharged with the same speed with which it is loaded, this would cause a rebound equal to the blow received. 
+In particular, the ratio between rebound and compression is approximately two to one for racing shock absorbers.
+Bump: Stops the springs oscillation inward. A higher number will dampen the compression at a slow rate more.
+Fast bump: A higher number will dampen the compression at a high rate more.
+Rebound: Stops the springs oscillation outward. A higher number will dampen the decompression at a slow rate more.
+Fast rebound: A higher number will dampen the decompression at a high rate more.
+Note: to absorb shocks on the curbs, lower the fast bump and fast rebound values ​​(however, if the wheels bounce/sway after the impact, intervene again with an increase in the fast rebound value). 
+Do not overdo it with the reduction of the fast compression as if the suspension compresses too much, it could come into contact with end-of-stroke buffers (in this case the impact would fall on the body which can bounce and cause the tires to lose grip). 
+Also, in some cars (for example Audi), if the wheel goes up too easily leaving the chassis stationary, you risk touching the curb with the car body.
+
+
+Damper graph
+
+{{This section explains how to analyze damper histograms and wheel sway speed graphs to fine-tune suspension settings, aiming for a symmetrical bell curve distribution for optimal performance. It details how different speeds (high/low) and phases (bump/rebound) relate to driving conditions and how to interpret asymmetries in the graph to identify and correct damper setup issues.}}
+A very useful technique for suspension tuning is to use histograms and wheel sway speed analysis to evaluate spring and damping settings. 
+In particular, these graphs relate the wheel speed (positive speed values ​​indicate compression, negative values ​​indicate extension) and the percentage of samples (statistically the time elapsed by each shock absorber in the compression and extension phases). 
+In a theoretically ideal suspension configuration, we will have a symmetrical histogram with a bell curve.
+Remember: the hight speed bump and the hight speed rebound of shock absorber spring occur to step over bumps, potholes and curbs of the circuit. 
+The low speed bump and the low speed rebound of the spring occur during braking (front wheels in compression and rear in extension) or in acceleration (front wheels in extension and rear in compression) or when cornering, while the car tilts (the inner wheels go in rebound and the outer wheels in compression).
+If you want a symmetrical bell, you have to reduce the stiffness of slow extension or increase the stiffness of slow compression until symmetry is achieved. 
+Small asymmetries are not a problem; instead, if the peak of the curve is for example on the border between low speed compression and hight speed compression (or on the border between low speed rebound and hight speed rebound), this is an indication that something is not working as it should. 
+In fact, highly asymmetrical graphs indicate that the damper is setup badly in bump or rebound, fast or slow.
+Especially at the front, the peak of the curve must be quite pronounced, around at 12%.

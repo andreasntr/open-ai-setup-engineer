@@ -1,0 +1,17 @@
+Brake Pads
+
+{{This section details the four different brake pad options, describing their friction coefficients, wear characteristics, performance in different race conditions (sprint vs. endurance, wet vs. dry), and recommended uses.}}
+- Pads 1: Very aggressive, maximum braking performance but high wear of discs and pads. Pedal modulation can be complicated if out of temperature range or in case of wear. 
+Use in hotlap and qualifying sessions, sprint races; within 3 hours of competition they can still be risky to use. 
+Over 3 or 4 hours the pads wear out, overheat and lose linearity in the feel of the brake pedal. Therefore, the maximum usage time is estimated to be plus or minus one hour. 
+Having a high coefficient of friction, it is convenient to open the brake ventilation ducts.
+- Pads 2: Excellent coefficient of friction, excellent braking performance, good wear of the disc and pads. Pedal modulation almost always good and linear, good feedback in case of overheating and gradual wear. 
+Perfect pads for endurance races, but they can also be used in hotlaps, qualifying sessions and sprint races as what is lost in terms of performance is regained in modulation of braking and predictability. 
+They are the default choice for long-lasting races as they easily withstand 12 hours and up to 24 hours of racing, if not too stressed. 
+In case of overheating/wear, they lose linearity in the modulation of the brake pedal, but in a more predictable way and after much longer working periods.
+- Pads 3: Moderate coefficient of friction, braking distances may be longer on a dry track. Very moderate disc and pad wear. 
+Excellent pedal modulation even in cold ambient conditions, very linear pedal feedback. Great choice for wet conditions and very long endurance races. 
+Very predictable and easy to modulate brake pad.
+- Pads 4: High coefficient of friction; extremely aggressive, they last less than an hour and are inconvenient for any race as they reach deleterious temperatures. 
+Maximum braking performance, extremely aggressive wear of discs and pads, poor cold performance. 
+These types of pads are not used in endurance races, but only for demonstration purposes.

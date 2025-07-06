@@ -1,0 +1,29 @@
+TC1
+
+{{Fine-tuning car setups, specifically electronic aids for optimizing grip and stability. This section focuses on Traction Control 1 (TC1), explaining its function and how different values impact car behavior in various conditions.}}
+The traction control setting (TC1) tends to counteract spinning of the drive wheels.
+TC1 dictates at what slip angle the TC gets engaged, i.e. how much the tire should spin before engaging traction control. 
+Too high a value will slow down the car, but will help to avoid spinning.
+Very high values are used for increasingly wet track conditions.
+
+
+TC2
+
+{{Fine-tuning car setup, specifically advanced traction control settings. This section details the secondary traction control (TC2) found in some cars and its role in modulating power reduction when the primary traction control (TC1) activates.}}
+Some cars have an additional traction control (TC2) which determines how much the engine power reduction should be when the main traction control (TC1) kicks in.
+TC2 is the amount of power cut being applied, i.e. how much traction power is cut when the traction control is engaged.
+
+
+ABS
+
+{{This section details the function and effects of adjusting the Anti-lock Braking System (ABS) setting, explaining how higher values prevent wheel lockup at the cost of increased braking distance, particularly in wet conditions.}}
+ABS works by modulating brake pressure to prevent locking. 
+Higher values mean the brakes are less likely to lock up but the braking distance increases.
+Very high values are used for increasingly wet track conditions.
+
+
+Engine maps
+
+{{This section describes how to adjust engine maps (ECU) for performance and fuel efficiency, noting their use in wet conditions and safety car situations.}}
+Usually, the lower the value of the engine map (ECU), the faster your car and the higher the fuel consumption.
+Very high values ​​are usually better for wet conditions, with the highest being used for safety car pace.

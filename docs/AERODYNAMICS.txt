@@ -1,0 +1,62 @@
+Front Aero Variation
+
+{{This section focuses on front aerodynamic balance, specifically Front Load Variation, and its impact on car handling. It explains how to adjust this parameter to achieve optimal front grip and rear stability, and how ride height adjustments influence downforce and drag.}}
+Your main goal is to get the best possible front grip while keeping the rear stable. 
+Lower the Front Load Variation parameter until you feel confident with the stability of the rear of your car or increase it until just before you feel the loss of rear stability.
+Note: Adjusting parameters such as front and rear ground clearance, rear wing, splitter, etc., can significantly shift the car's aerodynamic balance forwards or backwards. 
+An increase in the Front Load Variation (eg from 2 to 2.6%) indicates that the aerodynamic adjustments have moved the downforce forward; a reduction (for example from 2 to -1%) means that the aerodynamic load has shifted significantly towards the rear.
+Once a good balance has been found, you can try to maximize the downforce by reducing the front height to a minimum (the allowed range is rather small by regulation, so it is possible that it is already at a minimum or almost) and compensating for this change through interventions at the rear (on wing and ground clearance), in order to maintain the previously achieved optimal balance almost unchanged.
+Some rules that you must keep in mind: to have more stability at the rear you don't necessarily have to have negative values ​​of the Front Load Variation (going from 2.7 to 1.5% is already a significant difference). 
+Only some cars need a negative Front Load Variation value to stabilize the rear (eg BMW M6 or Porsche 911 GT Cup).
+The ride height of the car, front/rear, determines the degree of downforce. If the machine is lowered too far, the drag (DRAG) may increase. 
+Tip: Starting with a taller car, keep lowering it until you feel tangible benefits.
+
+
+Rear Wing
+
+{{This section details the function and effects of adjusting the rear wing on a car's aerodynamic balance, affecting oversteer, understeer, and drag.}}
+The rear wing adds downforce. 
+Lower the value and you'll get a higher top speed, but you'll have a car with less cornering grip. Too much downforce will result in increased drag.
+Keep in mind that an increase in the rear wing angle of attack produces less oversteer; however too much rear wing results in less speed and excessive understeer. 
+More rear wing angle:
+ - It transfers the aerodynamic load to the rear;
+ - Increase understeer;
+ - Decreases oversteer;
+ - Increases resistance to running.
+
+
+Front Splitter
+
+{{This section details the effects of the front splitter on downforce, drag, understeer, and oversteer, and how to adjust it for desired handling characteristics.}}
+The front splitter adds downforce. 
+Lower the value and you'll get a higher top speed, but you'll have a car with less cornering grip. Too much downforce will result in increased drag.
+More splitter produces less understeer but too much splitter causes excessive oversteer.
+More splitter:
+ - Transfers the downforce forward;
+ - Reduces understeer;
+ - It can increase oversteer.
+
+
+Brake ducts
+
+{{This section details the function and effects of brake duct settings on brake disc temperatures, performance, and wear. It explains how settings relate to cooling and optimal temperature ranges, and how factors like ambient temperature and water affect brake duct settings.}}
+The functionality of the brake duct is to bring more or less air to the brake discs and keep them in an optimal temperature range. 
+Setting 0 corresponds to a fully closed brake duct and can cause rapid brake wear, with temperatures above 1000 degrees. Never close them completely in the race. 
+A setting 6 corresponds to a completely open duct and the brakes could remain cold and not fully effective.
+The brake duct not only controls the peak temperature of the brakes but, more importantly, determines how the heat is dissipated after releasing the brakes.
+A low setting will keep the brakes warm for a longer period of time between consecutive braking, while a higher setting will not only result in a lower peak temperature but also cool down faster.
+Ideally, the widget should turn green and/or slightly yellow at the front at the end of braking and remain green at the rear. 
+Keep in mind that the brake ducts, especially the front ones, receive heat from the asphalt which therefore affects the behavior of the brakes. This means that in case of high ambient temperatures it is better to open the ducts more. 
+Water affects the temperature of the brake discs and therefore, in rainy conditions, it is better to narrow the brake duct.
+
+
+Brake temperature
+
+{{This section details how to monitor and adjust brake temperatures using MoTeC, providing optimal temperature ranges for front and rear brakes. It also explains the relationship between brake duct openings and tire pressure adjustments.}}
+Using tools such as MoTeC, it will be possible to know exactly the brake temperature to compare it with the following optimal windows of use:
+ - from 300 ° C to 700 ° C for the front brakes;
+ - from 300 ° C to 600 ° C for the rear brakes.
+Every one click change in the brake duct opening corresponds to a 0.2 psi change in tire pressure:
+-1 brake duct = -0.2 psi
++1 brake duct = +0.2 psi
+The above is not valid in the passage from 2 to 3 and vice versa when opening the ducts; in this case the pressure variation is 0.3 psi. 
