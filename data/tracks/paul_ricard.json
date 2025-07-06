@@ -1,0 +1,12 @@
+{
+  "name": "Paul Ricard - Circuit 1A-V2",
+  "length": 5.842,
+  "track_description": "This track is known for its long Mistral straight and a mix of high-speed and technical corners.",
+  "avg_speed": 187.69142,
+  "downforce": "low",
+  "layout": "Turn 1: Approach with a high-speed setup, focusing on aerodynamic efficiency. Brake firmly and downshift to set up for the technical section ahead. The suspension should be tuned to provide stability while still being able to handle the curbs.\n\nTurn 2: Transition smoothly from the first part, aiming to clip the apex while managing the throttle. The car's balance is crucial here to maintain speed and prepare for the following straight.\n\nTurn 3: This corner requires a precise turn-in to maintain momentum. Use the curbs if necessary, but be mindful of track limits and the car's stability.\n\nTurn 4: A chicane that demands a good front-end response and a stable rear. Consider a softer rear anti-roll bar to aid in the quick direction changes.\n\nTurn 5: Trail brake into the second part of the chicane, focusing on a smooth exit to maximize acceleration and minimize wheel spin.\n\nTurns 6-7: Two corners where mechanical grip is key, especially on the uphill exit. Opt for a softer suspension setup to improve traction. Brake early and be patient with the throttle to ensure a strong exit.\n\nTurn 8 (Signes): With a downhill approach, high downforce is beneficial for stability. Brake in a straight line before turning in, and modulate the throttle carefully to manage the elevation change.\n\nTurn 9: Taken at high speed, the first part of this section requires a stable front end. Trail brake and aim for a late apex to prepare for the second part.\n\nTurn 10: The second part tightens, so focus on a good exit. Use the curbs judiciously, ensuring the car is settled for maximum exit speed.\n\nTurn 11: A double-apex corner that requires smooth and progressive braking. A balanced setup will help maintain cornering speed without compromising the exit.\n\nTurn 12: On the second apex, aim for a smooth exit to carry speed onto the straight. A differential setup for good traction out of slow corners can be advantageous.\n\nTurn 13: Trail brake into the corner and be patient on the throttle. Turn 14: Trail brake into the corner and avoid the inside curb. Be careful not to run wide on the exit and carry as much speed as possible for the start/finish straight.",
+  "map": {
+    "width": 650,
+    "height": 384
+  }
+}

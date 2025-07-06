@@ -1,0 +1,12 @@
+{
+  "name": "Watkins Glen",
+  "length": 5.43,
+  "track_description": "This track is known for its fast and flowing nature, with a mix of high-speed corners and elevation changes.",
+  "avg_speed": 190.77734,
+  "downforce": "low",
+  "layout": "Turn 1: This is a crucial corner for setting up a good lap. Brake hard and late, but be smooth to maintain as much speed as possible through the corner. A softer front anti-roll bar can help with the initial turn-in.\n\nTurn 2 (The Esses): The uphill nature of The Esses requires a stable rear end to maintain throttle through the section. A stiffer rear suspension setup can help keep the car planted.\n\nTurn 3 (The Esses): Continue through The Esses with minimal steering input and smooth throttle application to maintain momentum. Aero balance is important here to keep the car stable at high speeds.\n\nTurn 4 (The Esses): Exiting The Esses, focus on a smooth transition onto the back straight. Use the curbs if necessary, but be careful not to unsettle the car.\n\nTurns 5-6 (Inner Loop): A high-speed double chicane where braking stability and curb absorption are key. Stiff dampers can help the car handle the curbs without losing control and ensure the brake bias allows for stable deceleration.\n\nTurn 7: A long, sweeping corner that requires a good balance between aero grip and mechanical grip. A softer suspension setup can help maintain speed through the sustained lateral load.\n\nTurn 8: A sweeping corner that requires a good balance between aero grip and mechanical grip. A softer suspension setup can help maintain speed through the sustained lateral load.\n\nTurn 9: This corner leads onto a short straight, so a good exit is crucial. Trail brake into the corner and focus on getting on the power early for a strong run down the straight.\n\nTurn 10: A quick corner that can be taken with minimal braking. Confidence in the car's aero package will allow you to carry more speed through the turn.\n\nTurn 11: Braking stability is important here, so ensure the brake bias is set up to prevent lock-ups. A good exit is key to carry speed onto the final part of the lap.\n\nTurn 12: A quick corner that can be taken with minimal braking. Confidence in the car's aero package will allow you to carry more speed through the turn.\n\nTurn 14: The final corner before the start-finish straight. Aero balance and a smooth steering input will help maintain speed and set up for a fast lap time.",
+  "map": {
+    "width": 650,
+    "height": 384
+  }
+}

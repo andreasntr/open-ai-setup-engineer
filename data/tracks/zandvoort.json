@@ -1,0 +1,12 @@
+{
+  "name": "Zandvoort - Grand Prix Circuit",
+  "length": 4.259,
+  "track_description": "This track is known for its fast and flowing nature, with challenging corners and elevation changes.",
+  "avg_speed": 163.45842,
+  "downforce": "balanced",
+  "layout": "Turn 1 (Tarzanbocht): This is a crucial corner for setting up a good lap. Brake late but smoothly, aiming to hit the apex and use the banking to carry speed through the corner. A setup with a strong front end will help turn the car into the corner effectively.\n\nTurn 2 (Gerlachbocht): This corner requires a precise turn-in to maintain momentum. A balanced aero package will help keep the car stable through the quick transition.\n\nTurn 3 (Hugenholtzbocht): A tight, banked corner where traction is key. A softer rear suspension will aid in putting the power down on the exit without losing the rear of the car.\n\nTurn 4 (Hunzerug): A short burst to a slight kink, focus on positioning the car correctly for the upcoming sequence. Keep the steering inputs smooth and the throttle balanced.\n\nTurn 5 (Rob Slotemakerbocht): A quick change of direction, where a stable rear end will help the car to transition swiftly. Keep the car settled and prepare for the next corner.\n\nTurn 6 (Scheivlak): A high-speed corner that requires commitment. A stiff setup will help maintain stability, but ensure the dampers can absorb any curb strikes without unsettling the car.\n\nTurn 7 (Mastersbocht): A medium-speed corner where aero balance is important. Trail brake into the corner to keep the front end loaded and turn in sharply.\n\nTurn 8 (Bocht 9): A corner that can unsettle the car if approached incorrectly. A setup that allows for quick direction changes will be beneficial here.\n\nTurn 9 (Bocht 10): A late apex hairpin which requires patience on the throttle to maximize exit speed.\n\nTurns 10-11 (Hans Ernst Bocht): This chicane requires hard braking and precise steering inputs. Stiffer anti-roll bars can help the car remain flat and responsive through the quick left-right transition.\n\nTurn 12 (Kumhobocht): The exit of this corner is critical for lap time. Focus on getting the power down early and use all of the track on the exit to maximize speed onto the straight.\n\nTurn 13 (Arie Luyendijkbocht): The final corner leading onto the main straight. A high-speed, banked turn where downforce and aero efficiency are crucial. Keep the car planted and carry as much speed as possible onto the straight for the best lap time.",
+  "map": {
+    "width": 650,
+    "height": 384
+  }
+}

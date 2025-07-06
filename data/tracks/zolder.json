@@ -1,0 +1,12 @@
+{
+  "name": "Zolder - Grand Prix Circuit",
+  "length": 4.011,
+  "track_description": "This track is known for its fast and flowing nature with a good mix of high-speed corners and chicanes.",
+  "avg_speed": 166.75444,
+  "downforce": "balanced",
+  "layout": "Turn 1 (Erste): Approach with a stable brake balance to ensure the car remains composed under heavy braking. The suspension should be set to handle the curbs while maintaining traction for the exit.\n\nTurn 2 (Sterrenwacht): A quick flick to position the car for the exit is crucial. Use the curbs if necessary, but be mindful of unsettling the car.\n\nTurn 3 (Kanaalbocht): This corner requires precision and a good aero setup to maintain speed through the slight bend. Keep the car stable and prepare for the upcoming chicane.\n\nTurn 4 (Lucien Bianchi): Braking is key here, with a focus on hitting the apex and using the curbs to your advantage. A stiffer suspension setup can help the car remain stable over the curbs.\n\nTurns 5-6 (Kleine Chicane): This chicane is tight and requires a car that can handle abrupt direction changes. Stiff dampers will help the car to quickly settle after hitting the curbs.\n\nTurn 7 (Thierry Boutsen): A corner where mechanical grip is essential. Use a softer suspension setup to maximize traction and maintain speed through the corner.\n\nTurns 8-9 (Gilles Villeneuve): A high-speed approach that demands stability under braking. Trail brake into the corner and focus on a clean exit to maximize speed onto the back straight.\n\nTurn 10: A low-speed uphill where exit speed is crucial for the next short straight.\n\nTurn 11 (Terlamenbocht): This section is taken at high speed, so a stable front end is important.\n\nTurn 12 (Bolderbergbocht): Trail brake into the corner and aim for a late apex to set up for the second part. The second part tightens up, so a good exit is key. Use the curbs if necessary, but ensure the car is settled to maximize exit speed.\n\nTurn 13 (Jackie Ickx): A high curb chicane where stiff dampers can help the car absorb the shock without losing too much time. Brake straight and hard, then attack the curbs aggressively while keeping the car stable for the exit.\n\nTurn 14 (Jackie Ickx): The final corner leading onto the start-finish straight. Aero balance is key to keep the car planted, and a smooth, confident steering input will help maintain momentum across the line.",
+  "map": {
+    "width": 650,
+    "height": 384
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Kyalami - Grand Prix Circuit",
+  "length": 4.522,
+  "track_description": "The Kyalami Grand Prix Circuit is known for its fast, sweeping corners and challenging elevation changes.",
+  "avg_speed": 163.84058,
+  "downforce": "balanced",
+  "layout": "Turn 1 (Crowthorne): This is a heavy braking zone where you'll want to have a stable brake balance to avoid locking up. Aim for a late apex to maximize the drive down the following straight.\n\nTurn 2 (Jukskei Sweep): A fast corner that requires a high level of downforce for stability. Keep the steering smooth and maintain throttle balance to carry speed through the corner.\n\nTurn 3 (Barbeque): A medium-speed corner where you'll need to balance the car carefully between understeer and oversteer. A neutral aero setup can help here, allowing for quick direction changes.\n\nTurn 4 (Sunset): This corner has a blind entry, so it's important to get your braking point right. A stiffer front anti-roll bar can help with the initial turn-in.\n\nTurn 5 (Clubhouse): A corner that tightens on exit, requiring good mechanical grip. Soften the rear suspension to help with traction and prevent the car from snapping into oversteer.\n\nTurns 6-7 (The Esses): This is a quick left-right combination where a well-balanced car is crucial. Keep the weight transfer smooth and use the curbs to your advantage.\n\nTurn 8 (Leeukop): A fast corner that leads onto a straight, so a good exit is key. A stiffer rear setup can help keep the car stable through the high-speed turn.\n\nTurn 9 (Mineshaft): A downhill approach to a fast corner, where high downforce and a stable rear are important.\n\nTurn 10 (Croc's Leap): This corner requires precision as it's easy to run wide on exit. A softer front suspension can help with the initial turn-in.\n\nTurn 11 (Cheetah): This corner is taken at high speed, so aerodynamic stability is crucial. Keep the steering inputs smooth to maintain momentum.\n\nTurn 12 (Ingwe): The final corner before the start-finish straight. A good exit is essential, so focus on getting the power down cleanly without inducing too much wheelspin. A differential setup that provides good traction will be beneficial here.",
+  "map": {
+    "width": 650,
+    "height": 384
+  }
+}

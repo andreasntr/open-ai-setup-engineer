@@ -1,0 +1,12 @@
+{
+  "name": "Brands Hatch - Grand Prix Circuit",
+  "length": 3.908,
+  "track_description": "The Grand Prix Circuit at Brands Hatch is known for its fast and challenging corners, with elevation changes and a mix of high-speed and technical sections.",
+  "avg_speed": 171.18452,
+  "downforce": "balanced",
+  "layout": "Turn 1 (Paddock Hill Bend): This is a challenging corner where the car will experience compression at the bottom of the hill. A setup with a strong front end will help with the initial turn-in, while a compliant suspension setup can absorb the undulations and maintain grip.\n\nTurn 2 (Druids): A heavy braking zone into a tight hairpin. A higher rear ride height can aid in rotation, allowing the car to pivot into the corner. Trail braking is effective here to keep the nose pointed in the right direction.\n\nTurn 3 (Graham Hill Bend): A corner that requires a good exit for the following straight. A softer rear anti-roll bar can help with traction out of the corner, and be careful with the throttle to avoid oversteer.\n\nTurn 4 (Surtees): This leads onto the back straight, so a good exit is crucial. A balanced aero setup will help maintain speed through the corner and onto the straight.\n\nTurn 5 (Hawthorn Bend): A fast corner that requires confidence in the car's aerodynamics. A stiffer suspension setup can help with stability at high speeds.\n\nTurn 6 (Westfield Bend): Another quick corner where aero balance is important. The car will need to be stable under high-speed cornering, so a stiffer setup may be beneficial.\n\nTurn 7 (Dingle Dell): A corner that can unsettle the car if not approached correctly. A setup that allows for quick direction changes can help navigate this section effectively.\n\nTurn 8 (Sheene Curve): This corner requires precision and a stable car. A stiffer front anti-roll bar can help with the quick change of direction.\n\nTurn 9 (Stirlings Bend): A late apex corner that leads onto a short straight. A softer suspension setup can help with the mechanical grip required for the exit.\n\nTurn 10 (Clark Curve): The car needs to be well-balanced for this long, sweeping corner that leads onto the start-finish straight. A setup that allows for a progressive throttle application will help maintain speed through the corner and onto the straight. A good exit is crucial here, so focus on a setup that provides strong traction out of the corner.",
+  "map": {
+    "width": 650,
+    "height": 384
+  }
+}

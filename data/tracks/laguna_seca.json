@@ -1,0 +1,12 @@
+{
+  "name": "Laguna Seca - Road Course",
+  "length": 3.602,
+  "track_description": "This track is known for its challenging corkscrew turn and elevation changes.",
+  "avg_speed": 160.0553,
+  "downforce": "high",
+  "layout": "Turn 1: This is actually the crest on the main straight just before the Andretti Hairpin. Ensure the car is stable under braking and prepare for the heavy braking zone ahead.\n\nTurn 2 (Andretti Hairpin): A double-apex left-hander that requires precise braking. Use a softer front anti-roll bar to help with the initial turn-in and manage the weight transfer. Focus on the second apex and apply the throttle carefully to avoid understeer. The exit is crucial for the run up to the next corner.\n\nTurn 3: A fast corner that can unsettle the car if not approached correctly. Keep the aero balance neutral and use smooth steering inputs to maintain momentum.\n\nTurn 4: A fast corner where front agility is required to position the car and avoiding understeer on exit is key.\n\nTurn 5: An uphill left-hander where the rear of the car can become light. A higher rear ride height can help maintain traction during the climb.\n\nTurn 6: A very fast and challenging corner that leads onto the Rahal Straight. Stiffen the front suspension to reduce understeer and ensure a strong exit.\n\nTurn 7 (Corkscrew): The iconic left-right chicane with a dramatic elevation change. Approach with caution, brake in a straight line, and use a softer suspension setup to absorb the drop.\n\nTurn 8 (Corkscrew): As you navigate the right-hand part of the Corkscrew, let the car settle before applying the throttle. Be mindful of the exit as it can lead to oversteer.\n\nTurn 9 (Rainey Curve): A fast and sweeping corner that requires confidence in the car's balance. A stable rear end is key to carrying speed through this section.\n\nTurn 10: Another fast corner that leads into the final part of the lap. Keep the downforce levels high for stability and use the curbs if necessary.\n\nTurn 11: A slow and tight left-hander that demands good traction on exit. Optimize the differential settings to get the power down efficiently and drive onto the main straight.",
+  "map": {
+    "width": 650,
+    "height": 384
+  }
+}

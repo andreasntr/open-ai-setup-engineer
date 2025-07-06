@@ -1,0 +1,12 @@
+{
+  "name": "Red Bull Ring - Grand Prix Circuit",
+  "length": 4.318,
+  "track_description": "This track is characterized by its elevation changes and a mix of high-speed and technical sections.",
+  "avg_speed": 165.72281,
+  "downforce": "balanced",
+  "layout": "Turn 1 (Niki Lauda Kurve): This corner requires a hard braking point and a late apex. Use a setup that allows for strong braking stability and quick direction changes. The suspension should be stiff enough to handle the curbs but with enough compliance to absorb the shocks without unsettling the car.\n\nTurn 2 (Remus): Another heavy braking zone leading into a tight corner. Mechanical grip is crucial here, so consider a softer suspension setup to maximize traction on exit. Trail braking can help rotate the car into the corner.\n\nTurn 3 (Schlossgold): This is a medium-speed corner where aerodynamic efficiency and stability are key. A balanced aero setup will help maintain speed through the corner and onto the short straight that follows.\n\nTurn 4 (Rauch): A fast corner that requires confidence in the car's downforce. Keep the aero balance neutral to stable, and focus on a smooth steering input to maintain as much speed as possible.\n\nTurns 5-6 (Wurth Kurve): This sequence of corners require cornering grip and quick direction changes to minimize understeer and maximize cornering speed.\n\nTurn 7 (Rindt): This corner requires precise braking and a smooth turn-in to maintain speed. Consider a setup that enhances front-end grip to prevent understeer.\n\nTurn 8 (Red Bull Mobile): The final corner of the lap, where carrying speed onto the main straight is key. A stable rear end and a setup that allows for early throttle application will help maximize exit speed.",
+  "map": {
+    "width": 649,
+    "height": 384
+  }
+}

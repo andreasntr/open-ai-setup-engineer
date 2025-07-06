@@ -1,0 +1,12 @@
+{
+  "name": "Bathurst - Mount Panorama Circuit",
+  "length": 6.213,
+  "track_description": "This track is known for its challenging layout with steep inclines, sharp turns, and narrow sections.",
+  "avg_speed": 188.36469,
+  "downforce": "low",
+  "layout": "Turn 1 (Hell Corner): This is a 90-degree corner where braking stability and traction on exit are crucial. A softer rear suspension can help the car rotate into the corner, but be careful not to unsettle the car on exit as you apply the throttle. Exit is crucial for the following long straight.\n\nTurn 2 (Quarry Bend): A right-hander that requires a late apex. Brake in a straight line and turn in late to get the best drive up the mountain. A stiffer front anti-roll bar can help with the initial turn-in.\n\nTurn 3 (The Cutting): A steep, uphill corner where traction is key. Use a softer suspension setup to maintain grip on the rear tires as you accelerate out of the corner.\n\nTurn 4 to Turn 8 (Griffin's Mount, Reid Park, Sulman Park, McPhillamy Park, and Brock's Skyline): This sequence of corners is fast and requires a high level of precision. A balanced aero package is essential to keep the car stable through the high-speed direction changes.\n\nTurns 9-10 (The Esses): This is the beginning of a downhill section that is very fast and requires a car that is stable under braking. Stiff dampers can help the car handle the bumps and curbs through this section.\n\nTurns 11 to 14 (The Dipper): These corners are part of the descent where the car needs to be nimble to change direction quickly. A setup that allows for quick weight transfer without losing stability is key.\n\nTurn 15 (Forrest's Elbow): A steep donwhill corner leading to a long straight. It is crucial to brake hard and rotate the car fast to get on the throttle as soon as possible.\n\nTurns 16-17 (The Chase): This is a high-speed chicane that requires hard braking and precise turn-in. A stiffer front end can help with the responsiveness of the car through the chicane.\n\nTurn 18 (Murray's Corner): The final corner leading onto the main straight. It's important to have good mechanical grip for a strong exit, so a softer rear suspension can aid in putting the power down effectively.",
+  "map": {
+    "width": 649,
+    "height": 384
+  }
+}
