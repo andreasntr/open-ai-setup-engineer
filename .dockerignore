@@ -1,0 +1,11 @@
+*
+
+!assets
+!site-pages
+!data
+!src
+!app.py
+!index.html
+!requirements.txt
+!.streamlit
+!db

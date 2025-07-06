@@ -1,0 +1,19 @@
+[client]
+showErrorDetails = false
+toolbarMode = "minimal"
+showSidebarNavigation = "none"
+
+[server]
+port = 8080
+headless = true
+address = "localhost" # 0.0.0.0 if you wish to deploy it
+
+[ui]
+hideTopBar = true
+
+[theme]
+base = "dark"
+
+[browser]
+serverAddress = "localhost" # 0.0.0.0 if you wish to deploy it
+serverPort = 8080

@@ -1,0 +1,43 @@
+services:
+
+  db:
+    container_name: db
+    hostname: mongodb
+    image: mongodb/mongodb-atlas-local:8.0
+    restart: unless-stopped
+    ports:
+      - 27017:27017
+    environment:
+      - MONGODB_INITDB_ROOT_USERNAME=admin
+      - MONGODB_INITDB_ROOT_PASSWORD=password
+      - DO_NOT_TRACK=1 # avoid sending telemetry data to Atlas
+    volumes:
+      - mongodb_config:/data/configdb
+      - mongodb_data:/data/db
+      # Fix issues with rebooting and not persisting the vector search index
+      - mongodb_mongot:/data/mongot
+
+  ai-setup-engineer:
+    container_name: ai-setup-engineer
+    depends_on:
+      db:
+        condition: service_healthy
+    build:
+      tags:
+        - ai-setup-engineer
+    restart: unless-stopped
+    volumes:
+      - ./credentials:/credentials:ro # Mount the credentials directory
+      - ./logs:/app/logs # Mount the logs directory
+    env_file:
+      - ./envs/.env # Load environment variables from .env file
+    network_mode: host
+    command: "/bin/sh -c 'python db/init_db.py && rm -rf db && streamlit run app.py'"
+
+volumes:
+  mongodb_data:
+    name: mongo-data
+  mongodb_config:
+    name: mongo-config
+  mongodb_mongot:
+    name: mongo-mongot
