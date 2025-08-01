@@ -1,6 +1,6 @@
 # :mega: Disclaimer 
 
-This tool is free for everyone but the costs of API calls to the models are on the user. With gemini flash and flash lite, I estimated a cost of 0.001€ per question, around 1€/1000 questions (which is a lot).
+This tool is free for everyone but the costs of API calls to the models are on the user. With gemini flash and flash lite, I estimated a cost of 0.001€ per question, around 1€/1000 questions (which is a lot of questions).
 
 ---
 
